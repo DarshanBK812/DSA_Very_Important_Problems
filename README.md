@@ -49,8 +49,8 @@ These problems are commonly asked in coding interviews and cover a range of fund
 
 ## ✍️ Author
 
-**[Your Name]**  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+**DARSHAN B K**  
+GitHub: [https://github.com/DarshanBK812](https://github.com/yourusername)
 
 ---
 
